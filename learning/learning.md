@@ -10,21 +10,20 @@ The focus is on learning by writing code, experimenting with Linux system interf
 
 Each learning project follows a simple structure:
 
+```
 learning/
-│
 ├── project-name/
 │   ├── *.c
 │   ├── README.md
 │   ├── notes.md
 │   └── Makefile
 │
-├── another-project/
-│   ├── *.c
-│   ├── README.md
-│   ├── notes.md
-│   └── Makefile
-│
-└── README.md
+└── another-project/
+    ├── *.c
+    ├── README.md
+    ├── notes.md
+    └── Makefile
+```
 
 # Files
 
