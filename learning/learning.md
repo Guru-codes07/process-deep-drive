@@ -1,4 +1,4 @@
-Learning
+# Learning
 
 The "learning/" directory contains small C programs, exercises, and mini-projects designed to build the systems programming skills needed for the final Process Monitor.
 
@@ -6,7 +6,7 @@ The focus is on learning by writing code, experimenting with Linux system interf
 
 ---
 
-📂 Directory Structure
+# 📂 Directory Structure
 
 Each learning project follows a simple structure:
 
@@ -26,7 +26,7 @@ learning/
 │
 └── README.md
 
-Files
+# Files
 
 File| Purpose
 "*.c"| Source code and exercises
@@ -36,7 +36,7 @@ File| Purpose
 
 ---
 
-🚀 Quick Start
+# 🚀 Quick Start
 
 Clone the repository and enter the learning directory:
 
@@ -63,7 +63,7 @@ make clean
 
 ---
 
-🧠 How to Use the Learning Materials
+# 🧠 How to Use the Learning Materials
 
 For each project, a good approach is:
 
@@ -78,7 +78,7 @@ Don't be afraid to break the programs. Experimenting with the code is an importa
 
 ---
 
-🔬 What You'll Practice
+# 🔬 What You'll Practice
 
 The projects in this directory will cover concepts useful for the final Process Monitor, including:
 
@@ -96,7 +96,7 @@ The projects in this directory will cover concepts useful for the final Process 
 
 ---
 
-📌 Learning Principle
+# 📌 Learning Principle
 
 «Read → Understand → Run → Modify → Experiment»
 
@@ -104,7 +104,7 @@ The goal isn't just to make the programs work. It's to understand why they work 
 
 ---
 
-📄 License
+# 📄 License
 
 This project is licensed under the MIT License.
 
@@ -112,7 +112,7 @@ See the main repository's ""LICENSE"" (../LICENSE) file for the complete license
 
 ---
 
-⭐ Keep Experimenting
+# ⭐ Keep Experimenting
 
 Every exercise here is a building block for the final Process Monitor.
 
