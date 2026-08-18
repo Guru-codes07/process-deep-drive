@@ -26,13 +26,13 @@ learning/
 ```
 
 # Files
-
+...
 File| Purpose
 "*.c"| Source code and exercises
 "README.md"| Project overview and learning objectives
 "notes.md"| Concepts, system calls, observations, and important details
 "Makefile"| Build instructions
-
+...
 ---
 
 # 🚀 Quick Start
