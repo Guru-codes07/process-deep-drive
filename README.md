@@ -8,7 +8,7 @@ The goal isn't just to create another system-monitoring utility. The goal is to 
 
 ---
 
-🧠 About the Project
+# 🧠 About the Project
 
 Processes are one of the fundamental concepts of an operating system.
 
@@ -32,7 +32,7 @@ The project explores Linux process management step by step using C, Linux system
 
 ---
 
-🎯 Project Goal
+# 🎯 Project Goal
 
 The final goal of this project is to build a lightweight Process Monitor capable of inspecting and displaying information about running processes.
 
@@ -50,7 +50,7 @@ It should also support real-time monitoring, allowing process information to upd
 
 ---
 
-🔍 What Makes This Project Different?
+# 🔍 What Makes This Project Different?
 
 This isn't a project where the final code is written first and the concepts are explained afterward.
 
@@ -90,7 +90,7 @@ Each concept contributes to understanding the final application.
 
 ---
 
-🐧 Linux Processes
+# 🐧 Linux Processes
 
 A major focus of this project is understanding how Linux manages processes.
 
@@ -109,7 +109,7 @@ You'll also learn how programs can interact with this information from C.
 
 ---
 
-📂 Exploring "/proc"
+# 📂 Exploring "/proc"
 
 One of the most important parts of the project is the Linux "/proc" filesystem.
 
@@ -137,7 +137,7 @@ This provides practical experience working with a pseudo-filesystem exposed by t
 
 ---
 
-⚙️ Systems Programming
+# ⚙️ Systems Programming
 
 While developing the project, you'll work with low-level Linux concepts rather than relying entirely on high-level libraries.
 
@@ -165,7 +165,7 @@ The goal is to understand what these mechanisms actually do and how applications
 
 ---
 
-📊 CPU Monitoring
+# 📊 CPU Monitoring
 
 Monitoring CPU usage introduces another interesting problem.
 
@@ -186,7 +186,7 @@ This makes the project a practical exercise in working with time-based system st
 
 ---
 
-💾 Memory Monitoring
+# 💾 Memory Monitoring
 
 The process monitor will also inspect process memory usage.
 
@@ -202,7 +202,7 @@ and learn how Linux exposes memory information that can be interpreted by user-s
 
 ---
 
-🖥️ Process States
+# 🖥️ Process States
 
 Processes can exist in different states during their lifetime.
 
@@ -218,7 +218,7 @@ Understanding these states provides a better picture of what processes are actua
 
 ---
 
-🔄 Real-Time Monitoring
+# 🔄 Real-Time Monitoring
 
 A major feature of the final tool is the ability to monitor processes continuously.
 
@@ -248,7 +248,7 @@ This turns the project from a simple "/proc" parser into an actual monitoring ap
 
 ---
 
-🛠️ Technologies
+# 🛠️ Technologies
 
 The project primarily focuses on:
 
@@ -263,7 +263,7 @@ Git| Version control
 
 ---
 
-📚 What You'll Learn
+# 📚 What You'll Learn
 
 By working through this project, you'll gain practical experience with:
 
@@ -307,7 +307,7 @@ Software Development
 
 ---
 
-🎓 Why This Project Matters
+# 🎓 Why This Project Matters
 
 Understanding processes is an important foundation for anyone interested in:
 
@@ -326,7 +326,7 @@ A process monitor may look like a relatively small project, but building one fro
 
 ---
 
-🚀 The Philosophy
+# 🚀 The Philosophy
 
 The philosophy behind process-deep-dive is:
 
@@ -350,7 +350,7 @@ And eventually build something useful from what you've learned.
 
 ---
 
-🏁 Final Goal
+# 🏁 Final Goal
 
 The end result will be a functional process monitoring tool written in C that can inspect running processes and present useful resource information.
 
@@ -374,7 +374,7 @@ That's the essence of process-deep-dive.
 
 ---
 
-⭐ Learn. Explore. Build.
+# ⭐ Learn. Explore. Build.
 
 process-deep-dive is more than a process monitor project.
 
