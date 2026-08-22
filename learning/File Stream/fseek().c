@@ -5,7 +5,7 @@ int main(void)
     char ch;
 
     /* Open file */
-    file = fopen("example.txt", "r");
+    file = fopen("bruhh.txt", "r");
 
     if (file == NULL)
     {
