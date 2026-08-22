@@ -6,7 +6,7 @@ int main(void)
     long position;
 
    
-    file = fopen("example.txt", "r");
+    file = fopen("muhehehe.txt", "r");
 
     if (file == NULL)
     {
