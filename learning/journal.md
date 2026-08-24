@@ -14,4 +14,7 @@ and updating them here.
 As now i am familiar with the basic functions , i am thinking of implementing them and build something
 but as i am kinda cooked nowadays so it will take time to learn and build something from scratch.
 
+# Implementaions 
+Gotta implement something that i have learned in some kind of minor project or via something else.
+
 
