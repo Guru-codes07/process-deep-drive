@@ -11,4 +11,7 @@ So i learned funcs and practiced them with mini programs.
 ftell(),fseek(),fgets(),fwrite() - these are the basic funcs i learned and practiced.
 i know these are the basic functions but guess what doing something is better than doing nothing so yeah.
 and updating them here.
+As now i am familiar with the basic functions , i am thinking of implementing them and build something
+but as i am kinda cooked nowadays so it will take time to learn and build something from scratch.
+
 
