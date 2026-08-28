@@ -16,5 +16,9 @@ but as i am kinda cooked nowadays so it will take time to learn and build someth
 
 # Implementaions 
 Gotta implement something that i have learned in some kind of minor project or via something else.
+i have completed the File stream folder , where i have learned about input/ouput file streaming in C language,
+now i am moving onwards to the process section where i will learn about process functions.
+
+# Processes
 
 
