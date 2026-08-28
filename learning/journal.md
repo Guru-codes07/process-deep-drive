@@ -20,5 +20,7 @@ i have completed the File stream folder , where i have learned about input/ouput
 now i am moving onwards to the process section where i will learn about process functions.
 
 # Processes
+So , i am starting with basic functions like: getpid() , getppid() and fork() ....
+as this goes on i will learn the foundation and how are they actually working ( behind the hood ).
 
 
