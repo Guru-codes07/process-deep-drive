@@ -10,4 +10,4 @@ int main(void)
     printf("After exec()\n");
 
     return 0;
-}#include<stdio.h>
+}
