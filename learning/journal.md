@@ -26,3 +26,6 @@ as this goes on i will learn the foundation and how are they actually working ( 
 # Updates
 Aghh , days are kinda harsh , i cant focus on things right now and with SIH-2026 things are tight so yeah have to work on different kind of things so there would be some days off in the contribution chart but in exchange that's a fair amount i would say ... so lets see.
 
+# Break
+After a break i am back and im still working on my Project Netra , lets see where it goes though...
+
