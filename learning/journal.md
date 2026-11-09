@@ -28,4 +28,6 @@ Aghh , days are kinda harsh , i cant focus on things right now and with SIH-2026
 
 # Break
 After a break i am back and im still working on my Project Netra , lets see where it goes though...
+i have completed and made it good overall ig , till now . I have added many features that would help to analyze criminal networks
+easily with no complexity of use.
 
